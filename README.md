@@ -13,4 +13,4 @@ Pour ce projet, nous partons d'une solution développée en Node-Red pour plusie
 
 ## Architecture systeme
 
-![borne-schema](https://user-images.githubusercontent.com/10775713/116858218-53befb00-abfe-11eb-9f73-2e6fd7e51082.png)
+![node-red archi](https://user-images.githubusercontent.com/10775713/116858292-6f2a0600-abfe-11eb-9991-d13c4bf5d266.jpg)
