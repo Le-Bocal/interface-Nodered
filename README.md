@@ -14,3 +14,14 @@ Pour ce projet, nous partons d'une solution développée en Node-Red pour plusie
 ## Architecture systeme
 
 ![node-red archi](https://user-images.githubusercontent.com/10775713/116858292-6f2a0600-abfe-11eb-9991-d13c4bf5d266.jpg)
+
+## Fonctionnalitées
+
+### Aujourd'hui 
+
+Aujourd'hui on peut enregistrer via une interface web les interactions des membres dans le fablab, il faut à chaque fin d'utilisation des machines entrer le membre du fablab, les machines utilisées et son indépendance sur les machines.
+Sur l'interface on peut ajouter un membre dans la base de données.
+
+### Objectifs
+
+L'information et la base de donnée doivent tourné sur le raspberry pi, plusieur module avec des esp32+RFID doivent permettre aux membres de badger
